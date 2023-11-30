@@ -79,6 +79,15 @@ describe("POST /api/movies", () => {
   });
 });
 
+
+
+
+
+
+
+
+
+
 describe("PUT /api/movies/:id", () => {
   it("should edit movie", async () => {
     const newMovie = {
